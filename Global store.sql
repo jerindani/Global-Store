@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS global_store_db;
+CREATE DATABASE global_store_db;
 USE global_store_db;
 
 CREATE TABLE products (
